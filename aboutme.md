@@ -1,14 +1,8 @@
 ---
 layout: page
-title: About me
-subtitle: Change Me
+title: About
+subtitle: Michael Bundick
 ---
 
-Place holder text, change this.
-
-Placeholder List:
-- item 1
-- item 2
-- item 3
-
-link example [here](https://data.gov)
+Student studying data science with Python at Lambda School.
+Located in Los Angeles where I hike, dive, play boardgames and code.
