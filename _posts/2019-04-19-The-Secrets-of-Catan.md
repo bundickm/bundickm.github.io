@@ -3,7 +3,7 @@ layout: post
 title: The secrets of Catan
 subtitle: Looking for what makes a modern hit board game
 bigimg: /img/path.jpg
-tags: [hello, world, test]
+tags: [boargames, bgg, catan, unit1]
 ---
 # The Secrets of Catan
 ### Looking for what makes a modern hit board game
