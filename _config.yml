@@ -27,6 +27,7 @@ navbar-links:
   Resources:
     - Medium Blog: "https://medium.com/@bundickm"
     - GitHub Pages: "https://github.com/bundickm"
+    - LinkedIn Profile: "https://www.linkedin.com/in/michael-bundick/"
   Author's home: "bundickm.github.io"
 
 # Image to show in the navigation bar - image must be a square (width = height)
@@ -72,8 +73,8 @@ author:
 social-network-links:
   email: "bundickm@gmail.com"
   github: bundickm
-  linkedin: bundickm
-  medium: bundickm
+  linkedin: michael-bundick
+  medium: @bundickm
 #  rss: true
 #  facebook:
 #  twitter: daattali
@@ -93,8 +94,8 @@ social-network-links:
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   google: false
   linkedin: true
 
