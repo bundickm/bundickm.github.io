@@ -6,7 +6,7 @@ tags: [Problem solving, rubber duck]
 ---
 ![duck](/img/Rubberduck.jpg)
 
-While I was a student at Lambda School I noticed that many of the students struggled in the beginning not because they didn't know Python but because they didn't know how to approach problem solving when programming. Many of the people struggling were missing that the shortcuts they take in their head to solve a problem don't work with a computer and you have to instead be very methodical.
+While I was a student at Lambda School I noticed that many of the students struggled in the beginning not because they didn't know Python but because they didn't know how to approach problem solving when programming. They were struggling because they were missing that the shortcuts they take in their head to solve a problem don't work with a computer and you have to instead be very methodical.
 
 Knowing this, I created a lecture notebook to teach a methodical approach to problem solving as a way to improve the introductory curriculum at Lambda School. Once I became a Team Lead I was afforded the privelege to teach my lecture. 
 
